@@ -1,0 +1,50 @@
+{
+    "name":  "voice-forge",
+    "logo":  "🎤",
+    "exe":  "VoiceForge.exe",
+    "desc":  "Free, open-source TTS studio for Windows — local neural voices, batch narration, audiobook export. 100 MB portable, offline, MIT, no cloud.",
+    "topics":  [
+                   "text-to-speech",
+                   "tts",
+                   "voice-synthesis",
+                   "audiobook",
+                   "onnx",
+                   "ai-tools",
+                   "windows",
+                   "windows-10",
+                   "windows-11",
+                   "csharp",
+                   "dotnet",
+                   "batch-narration",
+                   "piper",
+                   "voice-presets",
+                   "offline",
+                   "portable",
+                   "open-source",
+                   "mit-license"
+               ],
+    "features":  [
+                     "✅ **Local neural voices** — Piper-class ONNX models speak on your machine with no API keys",
+                     "✅ **Batch narration** — feed a folder of text files or a CSV and get one audio file per line",
+                     "✅ **Audiobook export** — long text split into numbered chapters with silence between them",
+                     "✅ **Pause and emphasis controls** — comma pauses, sentence gaps and speed per voice tuned in the panel",
+                     "✅ **Voice audition shelf** — ten voices compared on the same sentence before committing to a read",
+                     "✅ **WAV and MP3 out** — raw audio for editing or encoded files ready to publish",
+                     "✅ **100 MB self-contained exe** — runtime bundled, voices download separately, offline after that, MIT"
+                 ],
+    "compare":  [
+                    "| Feature | **voice-forge** | ElevenLabs | Balabolka | Piper CLI |",
+                    "|---|:---:|:---:|:---:|:---:|",
+                    "| Price | **Free, MIT** | Paid subscription | Freeware | Free, OSS |",
+                    "| Open source | **Yes** | No | No | Yes |",
+                    "| Text stays local | **Yes** | Uploaded | Yes | Yes",
+                    "| Batch CSV narration | **Yes** | API only | Partial | Scripted |",
+                    "| Audiobook chapter export | **Yes** | No | No | No |",
+                    "| Portable, no install | **Yes, 100 MB** | Browser | Installer | Python env"
+                ],
+    "faqQ":  "free text to speech for Windows that works offline?",
+    "faqA":  "Cloud voices bill per character and the text leaves your machine, while old offline voices still sound robotic. voice-forge runs neural TTS models locally, narrates whole folders in batch and exports chaptered audiobooks. It is a 100 MB portable exe, MIT, unlimited characters, no account needed.",
+    "s1":  "Dark studio (#121418, magenta #E879F9): text editor left with a highlighted pause marker, voice shelf right with ten audition rows, waveform strip at bottom.",
+    "s2":  "Batch narration: CSV with 240 rows mapped to output names, progress at 132 files, per-row status lights, ETA chip reading 18 minutes.",
+    "s3":  "Audiobook export: chapter list auto-split on headings, silence gap stepper at 1.2 s, bitrate dropdown, toast reading 24 chapter files written."
+}
